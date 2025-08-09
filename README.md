@@ -95,8 +95,8 @@ This runs a lightweight local server so the webcam and face-api.js models load c
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1]
+# Screenshots
+
 <img scr="https://files.catbox.moe/lu4raz.jpg" /)
 *Add caption explaining what this shows*
 
