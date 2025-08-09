@@ -115,6 +115,9 @@ For Software:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
+# Github Repo Link
+https://github.com/vi2k6/Changaathi-Nannayalum-Kannadi-Venam
+
 ### Live Website
 https://cnkv.tech
 
