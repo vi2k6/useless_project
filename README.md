@@ -43,7 +43,8 @@ Fully browser-based with a clean, white-themed UI.
 2. Create a project folder:
 
 ```bash
-mkdir face-analyzer && cd face-analyzer```
+mkdir face-analyzer && cd face-analyzer
+```
 
 3. Create an index.html file (or paste your full code there)
 4. Open in browser:
@@ -53,7 +54,8 @@ open index.html         # macOS
 # OR  
 start index.html        # Windows  
 # OR  
-xdg-open index.html     # Linux```
+xdg-open index.html     # Linux
+```
 
 🌐 To serve it locally with a lightweight server (optional):
 
@@ -61,14 +63,16 @@ Using Python (if installed):
 
 ```bash
 # Python 3.x
-python -m http.server 8000```
+python -m http.server 8000
+```
 
 # Then open http://localhost:8000 in your browser
 📦 If using npm or building with a framework (not required):
 
 ```bash
 npm init -y
-npm install face-api.js```
+npm install face-api.js
+```
 
 # Run
 🖥️ Run Command (for local use)
@@ -76,12 +80,14 @@ npm install face-api.js```
 If you have Python installed:
 
 ```bash
-python -m http.server 8000```
+python -m http.server 8000
+```
 
 Then open your browser and go to:
 
 ```arduino
-http://localhost:8000```
+http://localhost:8000
+```
 
 This runs a lightweight local server so the webcam and face-api.js models load correctly (some browsers block webcam on file:// URLs).
 
