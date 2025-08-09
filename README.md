@@ -5,13 +5,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Try & Error
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Fahadh - Seethi Sahib Memorial Polytechnic College, Tirur
+- Member 2: Fahadh - Seethi Sahib Memorial Polytechnic College, Tirur
+- Member 3: Muhammad Navaf P - Seethi Sahib Memorial Polytechnic College, Tirur
 
 ### Project Description
 A system that used in vehicles. Whenever any vehicle gives bright light to the opposite vehicle, it will be uncomfortable for the opposite vehicle driver, so the opposite vehicle will show a powerful dim light to the driver as a warning.
@@ -33,8 +33,6 @@ For Hardware:
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
