@@ -97,7 +97,7 @@ For Software:
 
 # Screenshots
 
-<img scr="https://files.catbox.moe/lu4raz.jpg" /)
+<img scr="https://files.catbox.moe/lu4raz.jpg" />
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
