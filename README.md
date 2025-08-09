@@ -97,13 +97,13 @@ For Software:
 
 # Screenshots
 
-<img scr="https://files.catbox.moe/lu4raz.jpg" />
+<img width="1920" height="1080" alt="frame (3)" scr="https://files.catbox.moe/lu4raz.jpg" />
 *Opening splash screen*
 
-<img scr="https://files.catbox.moe/tw3n4c.jpg" />
+<img width="1920" height="1080" alt="frame (3)" scr="https://files.catbox.moe/tw3n4c.jpg" />
 *inside interface*
 
-<img scr="https://files.catbox.moe/nfep58.jpg" />
+<img width="1920" height="1080" alt="frame (3)" scr="https://files.catbox.moe/nfep58.jpg" />
 *face detected interface*
 
 # Diagrams
