@@ -47,6 +47,7 @@ mkdir face-analyzer && cd face-analyzer```
 
 3. Create an index.html file (or paste your full code there)
 4. Open in browser:
+
 ```bash
 open index.html         # macOS  
 # OR  
@@ -57,22 +58,28 @@ xdg-open index.html     # Linux```
 🌐 To serve it locally with a lightweight server (optional):
 
 Using Python (if installed):
+
 ```bash
 # Python 3.x
-python -m http.server 8000
-# Then open http://localhost:8000 in your browser```
+python -m http.server 8000```
+
+# Then open http://localhost:8000 in your browser
 📦 If using npm or building with a framework (not required):
+
 ```bash
 npm init -y
 npm install face-api.js```
+
 # Run
 🖥️ Run Command (for local use)
 
 If you have Python installed:
+
 ```bash
 python -m http.server 8000```
 
 Then open your browser and go to:
+
 ```arduino
 http://localhost:8000```
 
