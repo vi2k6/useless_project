@@ -66,7 +66,8 @@ Using Python (if installed):
 python -m http.server 8000
 ```
 
-# Then open http://localhost:8000 in your browser
+Then open http://localhost:8000 in your browser
+
 📦 If using npm or building with a framework (not required):
 
 ```bash
@@ -95,7 +96,8 @@ This runs a lightweight local server so the webcam and face-api.js models load c
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://files.catbox.moe/lu4raz.jpg)
+![Screenshot1]
+<img scr="https://files.catbox.moe/lu4raz.jpg" /)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
