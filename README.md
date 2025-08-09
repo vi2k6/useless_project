@@ -14,48 +14,22 @@
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+A system that used in vehicles. Whenever any vehicle gives bright light to the opposite vehicle, it will be uncomfortable for the opposite vehicle driver, so the opposite vehicle will show a powerful dim light to the driver as a warning.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Gives uncomfortable to the opposite driver when any vehicle shows a bright light to his/her face.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It gives a powerful dim light to the opposite driver as a warning
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+- Ardino Uno
+- Servo Motor
+- Bright Light
+- 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
