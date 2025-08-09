@@ -98,49 +98,31 @@ For Software:
 # Screenshots
 
 <img scr="https://files.catbox.moe/lu4raz.jpg" />
-*Add caption explaining what this shows*
+*Opening splash screen*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img scr="https://files.catbox.moe/tw3n4c.jpg" />
+*inside interface*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img scr="https://files.catbox.moe/nfep58.jpg" />
+*face detected interface*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
+### Live Website
+https://cnkv.tech
+
 # Additional Demos
-[Add any extra demo materials/links]
+https://cnkv.netlify.app
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- The above mentioned team members
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
